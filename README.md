@@ -1,2 +1,2 @@
-# Digital_Image_Proccessing_Course_Projects_TMU
+# Digital_Image_Processing_Course_Projects_TMU
 DIP-Course-TMU
